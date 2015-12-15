@@ -1,0 +1,14 @@
+html, body {
+  font-size: 100%;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 550px;
+}
+
+img {
+  max-width: 100%;
+}
